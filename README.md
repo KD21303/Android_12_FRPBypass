@@ -1,6 +1,6 @@
 <p align="center">
   
-<img width="200px" src="https://w.nr1.nu/archive/banners/nr1_logo.png" />
+<img width="200px" src="https://user-images.githubusercontent.com/26827453/176991950-163cb923-25b2-411d-b570-37aea163692a.png" />
   <h2 align="center"># Hack Samsung Galaxy S10 Plus Android 12 - FRPBypass</h2>
   <h3 align="center">(Latest Security Patch from: <i>2022-02-01)</i></h3>
   <h4 align="center">---=== All Models Works And Are Vulnerable IF Android 12 Is Installed ===---</i></h4>
