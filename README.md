@@ -4,11 +4,14 @@
   <h3 align="center">(Works on all Samsung devices until Security Patch: <i>2022-02-01)</i></h3>
 </p>
 
-<center>More information about the CVC from Samsung can be found [here](https://security.samsungmobile.com/serviceWeb.smsb).</center>
 
-No worries, I've got you covered with a newer version (they are fast but not fast enough, so I decided to share this wiki with the public). This hack works perfectly for all Samsung devices with the latest security patch (2022-02-01). While the wiki was created on February 21, 2022, it still works awesomely. Please note that this method does **NOT** work on Android 11. If you have an Android 11 FPR locked device, you can upgrade to the latest firmware from Samsung.
+<center>More information about the (S)CVE from Samsung can be found [here](https://security.samsungmobile.com/serviceWeb.smsb).</center>
+
+No worries, I've got you covered with a newer version (they are fast but not fast enough, so I decided to share this wiki with the public). This hack works perfectly for all Samsung devices with the latest security patch (2022-02-01). While the wiki was created on February 21, 2022, it still works awesomely. Please note that this method does **NOT** work on Android 11. If you have an Android 11 FRP locked device, you can upgrade to the latest firmware from Samsung.
 
 I'm sharing this information freely because it's fun and because I can, and because I believe it's enjoyable to share knowledge. I never report exploits or security issues for money. For me, time is more valuable than money.
+
+***
 
 #### 1) Power on your device with `Android 12` installed.
 
